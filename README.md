@@ -9,7 +9,6 @@ Este projeto analisa as vendas e receitas de uma empresa fictícia, identificand
 
 📂 **Estrutura do Projeto:**  
 - `data/` - Conjunto de dados públicos utilizados  
-- `notebooks/` - Análises e scripts SQL/Python  
 - `reports/` - Dashboards e gráficos gerados  
 
 📊 **Principais Insights:**  
